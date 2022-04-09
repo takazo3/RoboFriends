@@ -1,5 +1,4 @@
 import React from "react";
-import { scryRenderedComponentsWithType } from "react-dom/test-utils";
 import Card from "./Card";
 
 const CardList = ({ robots }) => {
